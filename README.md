@@ -14,7 +14,7 @@ The data directory contains the csv file with data organised in a tidy, long for
 
 ## Additional information
 
-Interim Government Policy Statement on Health and its appendices can be accessed here
+Interim Government Policy Statement on Health and its appendices can be accessed [here](https://www.health.govt.nz/publication/interim-government-policy-statement-health-2022-2024).
 
 For more information or queries, please contact performancequeries@health.govt.nz
 
