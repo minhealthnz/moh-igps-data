@@ -3,7 +3,7 @@
 This repository contains supplementary data for measures from the Interim Government Policy Statement on Health 2022–2024, in accordance with Appendix 3. 
 These data present a range of unpublished data from Ministry of Health National Collections, including missed appointments, elective treatment waitlists, digital appointments, and as well as links to additional data sources. 
 
-The data are available as a user-friendly excel workbook and a machine-readable csv file.
+The data are available as a user-friendly Excel workbook and a machine-readable csv file.
 
 ## User-friendly format
 The output folder contains the workbook for Excel friendly use. For each of the measures, the front contents page links to data sheets within the workbook, or links to external data source web pages.
